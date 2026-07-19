@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="./videos/sim.mp4">
-    <img src="./videos/sim.png" width="800">
+    <img src="./videos/p-sim.png" width="800">
   </a>
 </p>
 
@@ -12,6 +12,6 @@
 
 <p align="center">
   <a href="./videos/real.mp4">
-    <img src="./videos/real.png" width="800">
+    <img src="./videos/p-real.png" width="800">
   </a>
 </p>
